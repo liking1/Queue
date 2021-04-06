@@ -1,0 +1,16 @@
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\bin\Debug\net5.0\EventHandler_.exe
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\bin\Debug\net5.0\EventHandler_.deps.json
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\bin\Debug\net5.0\EventHandler_.runtimeconfig.json
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\bin\Debug\net5.0\EventHandler_.runtimeconfig.dev.json
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\bin\Debug\net5.0\EventHandler_.dll
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\bin\Debug\net5.0\ref\EventHandler_.dll
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\bin\Debug\net5.0\EventHandler_.pdb
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\obj\Debug\net5.0\EventHandler_.csprojAssemblyReference.cache
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\obj\Debug\net5.0\EventHandler_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\obj\Debug\net5.0\EventHandler_.AssemblyInfoInputs.cache
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\obj\Debug\net5.0\EventHandler_.AssemblyInfo.cs
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\obj\Debug\net5.0\EventHandler_.csproj.CoreCompileInputs.cache
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\obj\Debug\net5.0\EventHandler_.dll
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\obj\Debug\net5.0\ref\EventHandler_.dll
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\obj\Debug\net5.0\EventHandler_.pdb
+C:\Users\tlvla\source\repos\EventHandler_\EventHandler_\obj\Debug\net5.0\EventHandler_.genruntimeconfig.cache
